@@ -1,16 +1,18 @@
-# flutter_application_1
-
-A new Flutter project.
+# Flutter 개발환경
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+PC에 Flutter 설치 (https://docs.flutter.dev/get-started/install)
+환경변수->편집->추가 (Flutter 설치위치 설정)
+cmd창 flutter 입력하여 결과 확인
 
-A few resources to get you started if this is your first Flutter project:
+VS_code extension Flutter 설치
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#Flutter 프로젝트 생성
+VS_Code [ctrl+shift+p] 후 Flutter: New Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#에뮬레이터 실행
+VS_Code [ctrl+shift+p] 후 Flutter: Launch Emulator
+
+#프로젝트 실행
+VS_Code [Ctrl+F5]
